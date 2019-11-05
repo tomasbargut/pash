@@ -1,5 +1,5 @@
 [package]
-name = "shell-in-rust"
+name = "pash"
 version = "0.1.0"
 authors = ["Tomás Bargut <tomasbarguttabbaj@gmail.com>"]
 edition = "2018"
